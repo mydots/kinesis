@@ -1,7 +1,8 @@
 startup_file=qwerty.txt
-thumb_mode=WINDOWS
+thumb_mode=MAC
 key_click_tone=ON
 toggle_tone=ON
 macro_disable=OFF
 macro_speed=3
 power_user=false
+
