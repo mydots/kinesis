@@ -1,3 +1,4 @@
+[caps]>[escape]
 [scroll]>[shutdn]
 [kp=]>[kp=mac]
 [lctrl]>[lwin]
