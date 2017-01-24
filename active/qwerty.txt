@@ -1,5 +1,7 @@
 [caps]>[escape]
-[scroll]>[shutdn]
+[prtscr]>[mute]
+[scroll]>[vol-]
+[pause]>[vol+]
 [kp=]>[kp=mac]
 [lctrl]>[lwin]
 [kp-lctrl]>[kp-lwin]
