@@ -1,5 +1,5 @@
 [caps]>[escape]
-[scroll]>[shutdn]
+[scroll]>[vol-]
 [prtscr]>[mute]
 [kp=]>[kp=mac]
 [pause]>[vol+]
